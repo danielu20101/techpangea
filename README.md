@@ -1,6 +1,6 @@
 <body>
   <h1>Daniel's Interests</h1>
-  <p>I am Daniel, a student athlete who will be an engineer in college next year. I want to describe my interests and hobbies with this webpage. Here are my top five interests.</p>
+  <p>Hi, I'm Daniel, a student athlete at Lehigh University. I want to describe my interests and hobbies, so here are my top five interests.</p>
   </div>
   <h2> Top 5: </h2>
 <div>
