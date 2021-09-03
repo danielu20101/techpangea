@@ -5,7 +5,7 @@
   <h2> Top 5: </h2>
 <div>
   <h3><em>1) Swimming</em></h3>
-    <p2>I have been swimming since the age of 7. I hope to continue swimming in college, but there lies a lot of uncertainty with the fall 2020 season.</p2>
+    <p2>I have been swimming since the age of 7. I hope to continue swimming in college, but there lies a lot of uncertainty with fall 2020 season.</p2>
   <img   src="https://cdn.pixabay.com/photo/2016/09/18/14/21/swimmer-1678307_1280.jpg" width= "500px" id= "swimimg"/>
   <h4><em>2) Favorite Animal</em></h4>
     <p3> My cat is 25 pounds and looks similar to the cat to the cat below</p3>
